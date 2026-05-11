@@ -1546,10 +1546,6 @@ $$
 
 a projection from complexity to decision.
 
-$$
-\Pi : \mathcal{T} \to \mathbb{R}
-$$
-
 That’s the company.
 
 ---
