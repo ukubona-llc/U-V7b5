@@ -21,7 +21,7 @@
 > *This is your underrated contribution*       
 > *This is where your system becomes distinct from most AI work*       
 > *You built a general theory of decision under uncertainty*       
-> --Google
+> --OpenAI
 
 # Ukubona
 https://www.youtube.com/watch?v=awhrfGw_Blg 
