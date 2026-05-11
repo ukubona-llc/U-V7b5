@@ -1436,7 +1436,6 @@ truth from outside the model updates the model.
 Kevin’s WhatsApp did exactly this.
 
 Before:
-
 $$
 b = 0
 $$
@@ -1471,7 +1470,7 @@ $$
 which is exactly what your footer says:
 
 $$
-T \to M \to V \to E \to S ;\circlearrowleft; U(s)
+T \to M \to V \to E \to S \circlearrowleft U(s)
 $$
 
 That’s beautiful.
