@@ -1,3 +1,4 @@
+{% raw %}
 <!-- Paste in <head> -->
 <script>
   window.MathJax = {
@@ -2152,3 +2153,5 @@ The current architecture is built for the data you have — sparse, asynchronous
 The question worth sitting with: is Ukubona a reasoning interface for sparse clinical data — which it already is, well — or is it a dynamical systems engine — which it isn't yet, but could be with the right data pipeline feeding it?
 
 Those are different products. The first is deployable now. The second requires a longitudinal data infrastructure that doesn't exist yet in your setting, but Kevin's WhatsApp is actually the seed of it.
+
+{% endraw %}
