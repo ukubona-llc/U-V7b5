@@ -1351,10 +1351,6 @@ $$
 \theta^t \rightarrow l_0 + \sum_i w_i l_i \rightarrow f(\sigma^2,\lambda,\epsilon) \rightarrow \gamma |\epsilon_{fgt}|^2 \rightarrow l(\theta^{t+1})
 $$
 
-$$
-\theta^t \rightarrow l_0 + \sum_i w_i l_i \rightarrow f(\sigma^2,\lambda,\epsilon) \rightarrow \gamma |\epsilon_{fgt}|^2 \rightarrow l(\theta^{t+1})
-$$
-
 That’s elegant.
 
 It says:
